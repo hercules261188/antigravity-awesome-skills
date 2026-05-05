@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 1443,
+  "total": 1445,
   "skills": [
     {
       "id": "00-andruia-consultant",
@@ -25150,6 +25150,38 @@
       "path": "skills/product-marketing-context/SKILL.md"
     },
     {
+      "id": "production-audit",
+      "name": "production-audit",
+      "description": "Audit a shipped repo for production-readiness gaps across RLS, webhooks, secrets, grants, Stripe idempotency, mobile UX, and deployment health.",
+      "category": "security",
+      "tags": [
+        "security",
+        "audit",
+        "production",
+        "vibe-coding",
+        "rls",
+        "webhook",
+        "stripe",
+        "supabase",
+        "mobile"
+      ],
+      "triggers": [
+        "security",
+        "audit",
+        "production",
+        "vibe-coding",
+        "rls",
+        "webhook",
+        "stripe",
+        "supabase",
+        "mobile",
+        "shipped",
+        "repo",
+        "readiness"
+      ],
+      "path": "skills/production-audit/SKILL.md"
+    },
+    {
       "id": "production-code-audit",
       "name": "production-code-audit",
       "description": "Autonomously deep-scan entire codebase line-by-line, understand architecture and patterns, then systematically transform it to production-grade, corporate-level professional quality with optimizations",
@@ -26412,6 +26444,33 @@
         "performance"
       ],
       "path": "skills/receiving-code-review/SKILL.md"
+    },
+    {
+      "id": "recursive-context-pruning-token-budgeting",
+      "name": "recursive-context-pruning-token-budgeting",
+      "description": "Optimizes AI agent performance by pruning redundant context, managing token usage, and enforcing ultra-concise, direct-to-value responses.",
+      "category": "data-ai",
+      "tags": [
+        "efficiency",
+        "token-optimization",
+        "brevity",
+        "context-management"
+      ],
+      "triggers": [
+        "efficiency",
+        "token-optimization",
+        "brevity",
+        "context-management",
+        "recursive",
+        "context",
+        "pruning",
+        "token",
+        "budgeting",
+        "optimizes",
+        "ai",
+        "agent"
+      ],
+      "path": "skills/recursive-context-pruning-token-budgeting/SKILL.md"
     },
     {
       "id": "red-team-tactics",

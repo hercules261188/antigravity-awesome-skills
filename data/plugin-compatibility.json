@@ -19465,6 +19465,25 @@
       "runtime_files": []
     },
     {
+      "id": "production-audit",
+      "path": "skills/production-audit",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
       "id": "production-code-audit",
       "path": "skills/production-code-audit",
       "targets": {
@@ -20421,6 +20440,25 @@
     {
       "id": "receiving-code-review",
       "path": "skills/receiving-code-review",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
+      "id": "recursive-context-pruning-token-budgeting",
+      "path": "skills/recursive-context-pruning-token-budgeting",
       "targets": {
         "codex": "supported",
         "claude": "supported"
@@ -27591,10 +27629,10 @@
     }
   ],
   "summary": {
-    "total_skills": 1443,
+    "total_skills": 1445,
     "supported": {
-      "codex": 1412,
-      "claude": 1427
+      "codex": 1414,
+      "claude": 1429
     },
     "blocked": {
       "codex": 31,
